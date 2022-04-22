@@ -3,3 +3,6 @@ _site
 *.swp
 
 .jekyll-cache
+.idea
+
+_source/public
